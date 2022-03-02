@@ -1,0 +1,17 @@
+{
+  "name": "learn-hapijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
